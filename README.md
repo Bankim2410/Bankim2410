@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bankim2410" alt="bankim2410" /></a> </p>
 
-- 🔭 I currently worked on [CodeIn Contest Platform](https://github.com/ZarhCode/CodeIn)
+- 🔭 I recently worked on [CodeIn Contest Platform](https://github.com/ZarhCode/CodeIn)
 
-- 🌱 I’m currently learning **Fullstack Development in Depth**
+- 🌱 I’m currently learning **Fullstack Development**
 
-- 👯 I have with my team on [Assignment Management System (AMS))](https://github.com/bankim2410/ams)
+- 👯 I have worked with my team on [Assignment Management System (AMS))](https://github.com/bankim2410/ams)
 
 - 🤝 I added a feature [LeetCode Snippet Injector](https://github.com/Bankim2410/leetcode-code-shortener)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bankim2410](https://github.com/Bankim2410)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Bankim2410)
 
-- 📝 I regularly code on [https://leetcode.com/u/Bankim_ch24/](https://leetcode.com/u/Bankim_ch24/)
+- 📝 I regularly code on [LeetCode](https://leetcode.com/u/Bankim_ch24/)
 
 - 💬 Ask me about **MERN**
 
